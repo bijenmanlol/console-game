@@ -1,7 +1,7 @@
 # CONSOLE GAME
 
 ## For more info and the documentation visit https://console-game.drooler.tk/
-&nbsp;
+
 ### How do I start:
 1. Download the consolegame folder and included it in the same directory as your code.
 2. Import the module, do this by adding the following at the top of your your python file ```import console-game```.
