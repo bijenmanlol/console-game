@@ -1,5 +1,7 @@
 # CONSOLE GAME
 
+## ABANDONED/OLD PROJECT - new version: https://github.com/bijenmanlol/typergame
+
 ## For more info and the documentation visit https://console-game.drooler.tk/
 
 ### How do I start:
